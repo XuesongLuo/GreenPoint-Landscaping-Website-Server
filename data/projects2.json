@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Zen Courtyard",
+    "category": "Residential",
+    "location": "Palo Alto, CA",
+    "year": "2023",
+    "description": "A modern interpretation of a traditional Japanese dry garden, featuring drought-tolerant planting suitable for the California climate.",
+    "tags": ["Zen", "Minimalist", "Water Feature"],
+    "image": "/assets/images/Gemini_Generated_Image_cyn3vocyn3vocyn3.png",
+    "gallery": [
+      "/assets/images/Gemini_Generated_Image_cyn3vocyn3vocyn3.png",
+      "/assets/images/plants/lavender.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Coastal Retreat",
+    "category": "Commercial",
+    "location": "Malibu, CA",
+    "year": "2022",
+    "description": "Sustainable landscaping for a boutique hotel, utilizing native grasses and permeable paving to reduce runoff.",
+    "tags": ["Coastal", "Sustainable", "Native Plants"],
+    "image": "/assets/images/background/cardboard-flat.png",
+    "gallery": []
+  },
+  {
+    "id": 3,
+    "title": "Urban Oasis",
+    "category": "Residential",
+    "location": "San Francisco, CA",
+    "year": "2023",
+    "description": "Transforming a small city backyard into a lush, multi-level garden for relaxation and entertaining.",
+    "tags": ["Urban", "Modern", "Vertical Garden"],
+    "image": "/assets/images/Gemini_Generated_Image_cyn3vocyn3vocyn3.png",
+    "gallery": []
+  }
+]

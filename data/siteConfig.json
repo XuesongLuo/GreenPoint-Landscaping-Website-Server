@@ -1,0 +1,18 @@
+{
+    "studio": {
+      "philosophy": {
+        "title": "Design Philosophy",
+        "headline": "以东方之笔，绘加州之境。",
+        "description": "在 GreenPoint，我们相信园林不是对自然的征服，而是对大地的“留白”。我们融合了京都禅寺的静谧尺度与加州海岸的明亮自由，利用当地抗旱植物营造出既符合现代生活方式，又具有深厚精神内核的景观空间。"
+      },
+      "contact": {
+        "address": "1200 Coastal Way, Santa Monica, CA 90401",
+        "email": "hello@greenpoint.landscaping",
+        "phone": "+1 (310) 555-0199",
+        "instagram": "@greenpoint.studio"
+      }
+    },
+    "home": {
+      "philosophy_quote": "“我们相信，最好的景观设计不是对场地的占领，而是对土地记忆的唤醒。借景、框景、隐喻，在方寸之间营造出可游、可居、可观的诗意世界。”"
+    }
+}
